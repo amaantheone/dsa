@@ -8,7 +8,7 @@ const graph = {
 };
 
 // const depthFirstSearch = (graph, source) => {
-//     stack = [ source ];
+//     const stack = [ source ];
     
 //     while ( stack.length > 0 ) {
 //         const current = stack.pop();
